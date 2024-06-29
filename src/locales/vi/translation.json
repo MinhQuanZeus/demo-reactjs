@@ -1,0 +1,22 @@
+{
+  "home": "Home",
+  "logout": "Đăng xuất",
+  "inputPlaceholder": "Nhập {{name}}",
+  "selectPlaceholder": "Chọn {{name}}",
+  "error": "Lỗi",
+  "config": "Thiết lập",
+  "message": {
+    "required": "{{name}} là trường bắt buộc",
+    "invalidEmail": "Email không hợp lệ",
+    "fieldInvalidFormat": "{{field}} không đúng định dạng",
+    "updateSuccess": "Cập nhật thành công"
+  },
+  "employee": "Nhân viên",
+  "employeeList": "Danh sách nhân viên",
+  "importEmployee": "Import nhân viên",
+  "createEmployee": "Tạo nhân viên",
+  "permissionManagement": "Quản lý quyền",
+  "permissionList": "Danh sách quyền",
+  "createPermission": "Tạo quyền",
+  "footer": "Copyright© QuanTM"
+}

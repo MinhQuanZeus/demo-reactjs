@@ -1,0 +1,15 @@
+{
+  "data": {
+    "id": 0,
+    "firstName": "Hello",
+    "lastName": "User",
+    "email": "email@email.com",
+    "avatar": "string",
+    "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjM1LCJpYXQiOjE2OTIxODAyMDgsImV4cCI6MTY5MjE4MzgwOH0.EQlvbVxNUGSCHF4puGtf4Y4kjrq5J_rLVvqBvaMNbBA",
+    "permissions": [
+      "employees:read",
+      "employees:create",
+      "employees:import"
+    ]
+  }
+}
